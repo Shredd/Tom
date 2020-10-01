@@ -1,5 +1,5 @@
 # Tom
-Tom is a Test Voice Recognitiom program i created to learn more about speech recognition in python 3
+Tom is a Test Voice Recognition program i created to learn more about speech recognition in python 3
 
 NOTE:
 As i learn more, this code will be updated in the future.
